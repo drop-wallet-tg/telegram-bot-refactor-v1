@@ -31,6 +31,11 @@ npm install
 * NEXT_PUBLIC_RELAYER_ACCOUNT_ID_NEAR_MAINNET is your account.
 * RELAYER_PRIVATE_KEY_NEAR_MAINNET is privateKey your account.
 * Edit .env.example to .env
+
+### Setup server telegram bot
+
+* [Server](./server-bot/README.md)
+
 ### Run project 
 
 ```bash
