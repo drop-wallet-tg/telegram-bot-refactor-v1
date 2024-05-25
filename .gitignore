@@ -2,7 +2,6 @@
 /.idea
 /build
 npm-debug.log*
-config.json
 app.logs
 # local env files
 **/.env*.local

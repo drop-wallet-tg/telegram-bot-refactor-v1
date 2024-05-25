@@ -1,0 +1,20 @@
+{
+    "github": {
+        "token": "",
+        "url": "https://api.github.com/graphql"
+    },
+    "mongodb": {
+        "name": "test",
+        "url": "mongodb://mongo:27017/"
+    },
+    "telegram": {
+        "token": "",
+        "proxy": ""
+    },
+    "adminUserName": "",
+    "app": {
+        "updateInterval": 300,
+        "logs": "./app.log",
+        "restartRate": 180
+    }
+}
